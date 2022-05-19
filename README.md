@@ -1,3 +1,8 @@
+This project was created watching youtube tutorial.
+Author: FreeCodeCamp.org
+Title: React Beginners Tutorial - Build an Autocomplete Text Box
+url: https://www.youtube.com/watch?v=NnpISZANByg
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
